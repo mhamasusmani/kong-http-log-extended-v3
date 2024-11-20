@@ -1,6 +1,6 @@
 # kong-http-log-extended-v3
 
-A custom Kong plugin that extends the functionality of HTTP logging by adding request and response body logging. It integrates with external servers for logging and is compatible with Kong 3.8.0.
+A custom Kong plugin that extends the functionality of HTTP logging by adding request and response body logging. It integrates with external servers for logging and is compatible with Kong 3.8.0. A modification to the existing plugin available for Kong's versions 2.x.x here --> https://github.com/Makcy/kong-plugin-http-log-extended
 
 ## Features
 
